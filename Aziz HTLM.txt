@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- Your Navigation Links Here -->
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="products">
+        <!-- Your Products Here -->
+        <div class="product-item">
+            <img src="product1.jpg" alt="Product 1">
+            <h2>Product Name</h2>
+            <p>Description of the product</p>
+            <button>Add to Cart</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Store. All rights reserved.</p>
+    </footer>
+</body>
+</html>
